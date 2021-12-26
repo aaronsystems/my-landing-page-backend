@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_landingpage_services",
+  "info": {
+    "name": "services",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "services": {
+      "collection": "services"
+    }
+  }
+}

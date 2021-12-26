@@ -1,0 +1,48 @@
+{
+  "kind": "singleType",
+  "collectionName": "landingpages",
+  "info": {
+    "name": "landingpage"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "header": {
+      "type": "component",
+      "repeatable": true,
+      "component": "landingpage.header"
+    },
+    "home": {
+      "type": "component",
+      "repeatable": true,
+      "component": "landingpage.home"
+    },
+    "about": {
+      "type": "component",
+      "repeatable": true,
+      "component": "landingpage.about"
+    },
+    "projects": {
+      "type": "component",
+      "repeatable": true,
+      "component": "landingpage.projects"
+    },
+    "services": {
+      "type": "component",
+      "repeatable": true,
+      "component": "landingpage.services"
+    },
+    "contact": {
+      "type": "component",
+      "repeatable": true,
+      "component": "landingpage.contact"
+    },
+    "footer": {
+      "type": "component",
+      "repeatable": true,
+      "component": "landingpage.footer"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_landingpage_projects",
+  "info": {
+    "name": "projects",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "projects": {
+      "collection": "projects"
+    }
+  }
+}
