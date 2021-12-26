@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_landingpage_abouts",
+  "info": {
+    "name": "about",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "contacts": {
+      "collection": "contacts"
+    }
+  }
+}

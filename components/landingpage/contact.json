@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_landingpage_contacts",
+  "info": {
+    "name": "contact",
+    "icon": "file-contract"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "contacts": {
+      "collection": "contacts"
+    },
+    "subtittle": {
+      "type": "string"
+    },
+    "contact_inputs": {
+      "collection": "contact-inputs"
+    },
+    "textButton": {
+      "type": "string"
+    }
+  }
+}

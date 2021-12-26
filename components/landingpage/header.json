@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_landingpage_headers",
+  "info": {
+    "name": "header",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "header_links": {
+      "collection": "header-links"
+    }
+  }
+}

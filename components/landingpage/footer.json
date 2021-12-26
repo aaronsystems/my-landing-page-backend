@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_landingpage_footers",
+  "info": {
+    "name": "footer",
+    "icon": "backspace"
+  },
+  "options": {},
+  "attributes": {
+    "message": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    }
+  }
+}
